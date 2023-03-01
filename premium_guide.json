@@ -31,8 +31,20 @@
   "Categories": [
     {
       "id": 1,
+      "name_category": "Alquran",
+      "image": "file:///android_asset/image/button 1.jpg"
+    }, {
+      "id": 1,
+      "name_category": "Doa",
+      "image": "file:///android_asset/image/button 2.jpg"
+    } , {
+      "id": 1,
       "name_category": "Alwaqiah",
-      "image": "file:///android_asset/category/category.jpg"
+      "image": "file:///android_asset/image/button 3.jpg"
+    } , {
+      "id": 1,
+      "name_category": "yaseen",
+      "image": "file:///android_asset/image/button 4.jpg"
     } 
   ],
   "Data": [
@@ -44,15 +56,14 @@
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Contoh guide offline dengan ektensi *.html, file tersimpan di folder asset",
       "link": "https://raw.githubusercontent.com/helmirachman/Alquran/main/alwaqiah.html"
-    } ,
-    {
-      "id": 6,
-      "name_category": "Source Code",
-      "title": "Alien Guide Json V6.0",
-      "type_file": "PDF",
-      "image": "https://aliendro.id/uploads/images/202202/img_x500_62187f91d1c888-80269870-13045913.jpeg",
-      "description": "Contoh guide dengan link pdf, fitur ini hanya untuk file online",
-      "link": "https://aliendro.id/uploads/demo/premiumguide/scguide.pdf"
-    }
+    } ,{
+      "id": 1,
+      "name_category": "Alwaqiah",
+      "title": "Cara mengisi Form Data Safety",
+      "type_file": "HTML",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Contoh guide offline dengan ektensi *.html, file tersimpan di folder asset",
+      "link": "https://raw.githubusercontent.com/helmirachman/Alquran/main/alwaqiah.html"
+    } 
   ]
 }
