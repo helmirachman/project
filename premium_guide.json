@@ -32,19 +32,19 @@
     {
       "id": 1,
       "name_category": "Alquran",
-      "image": "file:///android_asset/image/button 1.jpg"
+      "image": "file:///android_asset/image/button 1.png"
     }, {
       "id": 1,
       "name_category": "Doa",
-      "image": "file:///android_asset/image/button 2.jpg"
+      "image": "file:///android_asset/image/button 2.png"
     } , {
       "id": 1,
       "name_category": "Alwaqiah",
-      "image": "file:///android_asset/image/button 3.jpg"
+      "image": "file:///android_asset/image/button 3.png"
     } , {
       "id": 1,
       "name_category": "yaseen",
-      "image": "file:///android_asset/image/button 4.jpg"
+      "image": "file:///android_asset/image/button 4.png"
     } 
   ],
   "Data": [
