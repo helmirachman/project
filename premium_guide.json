@@ -55,7 +55,7 @@
       "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Contoh guide offline dengan ektensi *.html, file tersimpan di folder asset",
-      "link": "https://wallpaperhub.space/bigprojek/muslim/1.AnNaba.html"
+      "link": "file:///android_asset/juzamma/1.AnNaba.html"
     }  
   ]
 }
