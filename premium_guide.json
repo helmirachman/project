@@ -54,7 +54,7 @@
       "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Contoh guide offline dengan ektensi *.html, file tersimpan di folder asset",
-      "link": "file:///android_asset/juzamma/3.Abasa.html"
+      "link": "file:///android_asset/Juzamma/3.Abasa.html"
     }  ,
       {
       "id": 1,
@@ -63,7 +63,7 @@
       "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Contoh guide offline dengan ektensi *.html, file tersimpan di folder asset",
-      "link": "file:///android_asset/juzamma/3.Abasa.html"
+      "link": "file:///android_asset/Juzamma/3.Abasa.html"
     }  ,
       {
       "id": 1,
@@ -72,7 +72,7 @@
       "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Contoh guide offline dengan ektensi *.html, file tersimpan di folder asset",
-      "link": "file:///android_asset/juzamma/3.Abasa.html"
+      "link": "file:///android_asset/Juzamma/3.Abasa.html"
     }  
   ]
 }
