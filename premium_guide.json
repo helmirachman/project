@@ -23,7 +23,7 @@
     {
       "id": 1,
       "title": "IQ Test vs The Moron Test",
-      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "image": "https://media.istockphoto.com/id/1285816825/id/foto/al-quran-di-masjid.jpg?s=170667a&w=0&k=20&c=jucRtydI7WOwbIBmMV7rGMtU3xsR1GkIAKMgqkrsqGw=",
       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
     } 
   ],
@@ -54,7 +54,7 @@
       "type_file": "HTML",
       "image": "file:///android_asset/image/button 1.jpg",
       "description": "Contoh",
-      "link": "https://raw.githubusercontent.com/helmirachman/Alquran/main/annaba.html"
+      "link": "file:///android_asset/category/1.AnNaba.html"
     } ,
       {
       "id": 1,
@@ -63,15 +63,15 @@
       "type_file": "HTML",
       "image": "file:///android_asset/image/button 1.jpg",
       "description": "Contoh",
-      "link": "https://raw.githubusercontent.com/helmirachman/Alquran/main/annaba.html"
-    }  {
+      "link": "file:///android_asset/category/1.AnNaba.html"
+    } , {
       "id": 1,
       "name_category": "JuzAmma",
       "title": "An Naba",
       "type_file": "HTML",
       "image": "file:///android_asset/image/button 1.jpg",
       "description": "Contoh",
-      "link": "https://raw.githubusercontent.com/helmirachman/Alquran/main/annaba.html"
+      "link": "file:///android_asset/category/1.AnNaba.html"
     } ,
       {
       "id": 1,
@@ -80,15 +80,15 @@
       "type_file": "HTML",
       "image": "file:///android_asset/image/button 1.jpg",
       "description": "Contoh",
-      "link": "https://raw.githubusercontent.com/helmirachman/Alquran/main/annaba.html"
-    }  {
+      "link": "file:///android_asset/category/1.AnNaba.html"
+    } , {
       "id": 1,
       "name_category": "JuzAmma",
       "title": "An Naba",
       "type_file": "HTML",
       "image": "file:///android_asset/image/button 1.jpg",
       "description": "Contoh",
-      "link": "https://raw.githubusercontent.com/helmirachman/Alquran/main/annaba.html"
+      "link": "file:///android_asset/category/1.AnNaba.html"
     } ,
       {
       "id": 1,
@@ -97,58 +97,15 @@
       "type_file": "HTML",
       "image": "file:///android_asset/image/button 1.jpg",
       "description": "Contoh",
-      "link": "https://raw.githubusercontent.com/helmirachman/Alquran/main/annaba.html"
-    }  {
+      "link": "file:///android_asset/category/1.AnNaba.html"
+    } , {
       "id": 1,
       "name_category": "JuzAmma",
       "title": "An Naba",
       "type_file": "HTML",
       "image": "file:///android_asset/image/button 1.jpg",
       "description": "Contoh",
-      "link": "https://raw.githubusercontent.com/helmirachman/Alquran/main/annaba.html"
-    } ,
-      {
-      "id": 1,
-      "name_category": "JuzAmma",
-      "title": "An Naba",
-      "type_file": "HTML",
-      "image": "file:///android_asset/image/button 1.jpg",
-      "description": "Contoh",
-      "link": "https://raw.githubusercontent.com/helmirachman/Alquran/main/annaba.html"
-    }  {
-      "id": 1,
-      "name_category": "JuzAmma",
-      "title": "An Naba",
-      "type_file": "HTML",
-      "image": "file:///android_asset/image/button 1.jpg",
-      "description": "Contoh",
-      "link": "https://raw.githubusercontent.com/helmirachman/Alquran/main/annaba.html"
-    } ,
-      {
-      "id": 1,
-      "name_category": "JuzAmma",
-      "title": "An Naba",
-      "type_file": "HTML",
-      "image": "file:///android_asset/image/button 1.jpg",
-      "description": "Contoh",
-      "link": "https://raw.githubusercontent.com/helmirachman/Alquran/main/annaba.html"
-    }  {
-      "id": 1,
-      "name_category": "JuzAmma",
-      "title": "An Naba",
-      "type_file": "HTML",
-      "image": "file:///android_asset/image/button 1.jpg",
-      "description": "Contoh",
-      "link": "https://raw.githubusercontent.com/helmirachman/Alquran/main/annaba.html"
-    } ,
-      {
-      "id": 1,
-      "name_category": "JuzAmma",
-      "title": "An Naba",
-      "type_file": "HTML",
-      "image": "file:///android_asset/image/button 1.jpg",
-      "description": "Contoh",
-      "link": "https://raw.githubusercontent.com/helmirachman/Alquran/main/annaba.html"
-    } 
+      "link": "file:///android_asset/category/1.AnNaba.html"
+    }  
   ]
 }
