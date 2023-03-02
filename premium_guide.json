@@ -54,7 +54,7 @@
       "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Contoh",
-      "link": "file:///android_asset/category/1.AnNaba.html"
+      "link": "https://raw.githubusercontent.com/helmirachman/Alquran/main/annaba.html"
     } ,{
       "id": 1,
       "name_category": "JuzAmma",
