@@ -54,7 +54,7 @@
       "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Contoh guide offline dengan ektensi *.html, file tersimpan di folder asset",
-      "link": "https://raw.githubusercontent.com/helmirachman/Alquran/main/annaba.html"
+      "link": "file:///android_asset/privacy_policy.html"
     }  ,
       {
       "id": 1,
