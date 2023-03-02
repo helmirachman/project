@@ -55,24 +55,78 @@
       "image": "file:///android_asset/image/guide1.jpg",
       "description": "Contoh",
       "link": "file:///android_asset/category/1.AnNaba.html"
-    }  ,
-      {
+    } ,{
       "id": 1,
       "name_category": "JuzAmma",
       "title": "Al Waqiah",
       "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Contoh guide offline dengan ektensi *.html, file tersimpan di folder asset",
-      "link": "https://raw.githubusercontent.com/helmirachman/Alquran/main/annaba.html"
-    }  ,
-      {
+      "description": "Contoh",
+      "link": "file:///android_asset/category/1.AnNaba.html"
+    } ,{
       "id": 1,
       "name_category": "JuzAmma",
       "title": "Al Waqiah",
       "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Contoh guide offline dengan ektensi *.html, file tersimpan di folder asset",
-      "link": "https://raw.githubusercontent.com/helmirachman/Alquran/main/annaba.html"
-    }  
+      "description": "Contoh",
+      "link": "file:///android_asset/category/1.AnNaba.html"
+    } ,{
+      "id": 1,
+      "name_category": "JuzAmma",
+      "title": "Al Waqiah",
+      "type_file": "HTML",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Contoh",
+      "link": "file:///android_asset/category/1.AnNaba.html"
+    } ,{
+      "id": 1,
+      "name_category": "JuzAmma",
+      "title": "Al Waqiah",
+      "type_file": "HTML",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Contoh",
+      "link": "file:///android_asset/category/1.AnNaba.html"
+    } ,{
+      "id": 1,
+      "name_category": "JuzAmma",
+      "title": "Al Waqiah",
+      "type_file": "HTML",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Contoh",
+      "link": "file:///android_asset/category/1.AnNaba.html"
+    } ,{
+      "id": 1,
+      "name_category": "JuzAmma",
+      "title": "Al Waqiah",
+      "type_file": "HTML",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Contoh",
+      "link": "file:///android_asset/category/1.AnNaba.html"
+    } ,{
+      "id": 1,
+      "name_category": "JuzAmma",
+      "title": "Al Waqiah",
+      "type_file": "HTML",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Contoh",
+      "link": "file:///android_asset/category/1.AnNaba.html"
+    } ,{
+      "id": 1,
+      "name_category": "JuzAmma",
+      "title": "Al Waqiah",
+      "type_file": "HTML",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Contoh",
+      "link": "file:///android_asset/category/1.AnNaba.html"
+    } ,{
+      "id": 1,
+      "name_category": "JuzAmma",
+      "title": "Al Waqiah",
+      "type_file": "HTML",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Contoh",
+      "link": "file:///android_asset/category/1.AnNaba.html"
+    }
   ]
 }
