@@ -31,7 +31,7 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Alquran",
+      "name_category": "JuzAmma",
       "image": "file:///android_asset/image/button 1.png"
     }, {
       "id": 1,
@@ -50,7 +50,7 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Alwaqiah",
+      "name_category": "JuzAmma",
       "title": "Al Waqiah",
       "type_file": "HTML",
       "image": "file:///android_asset/image/guide1.jpg",
