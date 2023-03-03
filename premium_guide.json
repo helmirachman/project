@@ -31,19 +31,35 @@
     {
       "id": 1,
       "name_category": "JuzAmma",
-      "image": "file:///android_asset/image/button 1.jpg"
+      "image": "file:///android_asset/image/juzamma.jpg"
     }, {
       "id": 1,
-      "name_category": "Doa",
-      "image": "file:///android_asset/image/button 2.jpg"
+      "name_category": "alquran",
+      "image": "file:///android_asset/image/alquran.jpg"
     } , {
       "id": 1,
-      "name_category": "Alwaqiah",
-      "image": "file:///android_asset/image/button 2.jpg"
+      "name_category": "yasin",
+      "image": "file:///android_asset/image/yasin.jpg"
     } , {
+      "id": 1,
+      "name_category": "alwaqiah",
+      "image": "file:///android_asset/image/alwaqiah.jpg"
+    } , {
+      "id": 1,
+      "name_category": "arrahman",
+      "image": "file:///android_asset/image/arrahman.jpg"
+    } , {
+      "id": 1,
+      "name_category": "almulk",
+      "image": "file:///android_asset/image/almulk.jpg"
+    }  , {
       "id": 1,
       "name_category": "yaseen",
-      "image": "file:///android_asset/image/button 1.jpg"
+      "image": "file:///android_asset/image/tahlil.jpg"
+    }  , {
+      "id": 1,
+      "name_category": "panduansholat",
+      "image": "file:///android_asset/image/panduansholat.jpg"
     } 
   ],
   "Data": [
@@ -52,18 +68,18 @@
       "name_category": "JuzAmma",
       "title": "An-Naba - Juz Amma",
       "type_file": "HTML",
-      "image": "file:///android_asset/image/button 1.jpg",
+      "image": "file:///android_asset/image/juzamma.jpg",
       "description": "Contoh",
-      "link": "file:///android_asset/category/1.AnNaba.html"
+      "link": "file:///android_asset/Juzamma/1.annaba.html"
     } ,
       {
       "id": 1,
       "name_category": "JuzAmma",
-      "title": "An-Naba - Juz Amma",
+      "title": "An-Naziat - Juz Amma",
       "type_file": "HTML",
       "image": "file:///android_asset/image/button 1.jpg",
       "description": "Contoh",
-      "link": "file:///android_asset/category/1.AnNaba.html"
+      "link": "file:///android_asset/category/2.annaziat.html"
     } , {
       "id": 1,
       "name_category": "JuzAmma",
