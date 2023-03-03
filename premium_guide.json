@@ -31,38 +31,47 @@
     {
       "id": 1,
       "name_category": "JuzAmma",
-      "image": "file:///android_asset/image/juzamma.jpg"
+      "image": "file:///android_asset/category/juzamma.jpg"
     }, {
       "id": 1,
       "name_category": "alquran",
-      "image": "file:///android_asset/image/alquran.jpg"
+      "image": "file:///android_asset/category/alquran.jpg"
     } , {
       "id": 1,
       "name_category": "yasin",
-      "image": "file:///android_asset/image/yasin.jpg"
+      "image": "file:///android_asset/category/yasin.jpg"
     } , {
       "id": 1,
       "name_category": "alwaqiah",
-      "image": "file:///android_asset/image/alwaqiah.jpg"
+      "image": "file:///android_asset/category/alwaqiah.jpg"
     } , {
       "id": 1,
       "name_category": "arrahman",
-      "image": "file:///android_asset/image/arrahman.jpg"
+      "image": "file:///android_asset/category/arrahman.jpg"
     } , {
       "id": 1,
       "name_category": "almulk",
-      "image": "file:///android_asset/image/almulk.jpg"
+      "image": "file:///android_asset/category/almulk.jpg"
     }  , {
       "id": 1,
       "name_category": "yaseen",
-      "image": "file:///android_asset/image/tahlil.jpg"
+      "image": "file:///android_asset/category/tahlil.jpg"
     }  , {
       "id": 1,
       "name_category": "panduansholat",
-      "image": "file:///android_asset/image/panduansholat.jpg"
+      "image": "file:///android_asset/category/panduansholat.jpg"
     } 
   ],
   "Data": [
+          {
+      "id": 1,
+      "name_category": "yaseen",
+      "title": "Surah Yasin",
+      "type_file": "HTML",
+      "image": "file:///android_asset/image/yasin.jpg",
+      "description": "Contoh",
+      "link": "file:///android_asset/surah/yasin.html"
+    } ,
     {
       "id": 1,
       "name_category": "JuzAmma",
@@ -83,28 +92,28 @@
     } , {
       "id": 1,
       "name_category": "JuzAmma",
-      "title": "An-Naba - Juz Amma",
+      "title": "Abasa - Juz Amma",
       "type_file": "HTML",
       "image": "file:///android_asset/image/button 1.jpg",
       "description": "Contoh",
-      "link": "file:///android_asset/category/1.AnNaba.html"
+      "link": "file:///android_asset/category/3.Abasa.html"
     } ,
       {
       "id": 1,
       "name_category": "JuzAmma",
-      "title": "An-Naba - Juz Amma",
+      "title": "At-Takwir - Juz Amma",
       "type_file": "HTML",
       "image": "file:///android_asset/image/button 1.jpg",
       "description": "Contoh",
-      "link": "file:///android_asset/category/1.AnNaba.html"
+      "link": "file:///android_asset/category/4.attakwir.html"
     } , {
       "id": 1,
       "name_category": "JuzAmma",
-      "title": "An-Naba - Juz Amma",
+      "title": "Al-Infitar - Juz Amma",
       "type_file": "HTML",
       "image": "file:///android_asset/image/button 1.jpg",
       "description": "Contoh",
-      "link": "file:///android_asset/category/1.AnNaba.html"
+      "link": "file:///android_asset/category/5.alinfitar.html"
     } ,
       {
       "id": 1,
