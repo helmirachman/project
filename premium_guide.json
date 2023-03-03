@@ -68,7 +68,7 @@
       "name_category": "yaseen",
       "title": "Surah Yasin",
       "type_file": "HTML",
-      "image": "file:///android_asset/image/yasin.jpg",
+      "image": "file:///android_asset/category/yasin.jpg",
       "description": "Contoh",
       "link": "file:///android_asset/surah/yasin.html"
     } ,
@@ -77,7 +77,7 @@
       "name_category": "JuzAmma",
       "title": "An-Naba - Juz Amma",
       "type_file": "HTML",
-      "image": "file:///android_asset/image/juzamma.jpg",
+      "image": "file:///android_asset/category/juzamma.jpg",
       "description": "Contoh",
       "link": "file:///android_asset/Juzamma/1.annaba.html"
     } ,
@@ -86,7 +86,7 @@
       "name_category": "JuzAmma",
       "title": "An-Naziat - Juz Amma",
       "type_file": "HTML",
-      "image": "file:///android_asset/image/button 1.jpg",
+      "image": "file:///android_asset/category/button 1.jpg",
       "description": "Contoh",
       "link": "file:///android_asset/category/2.annaziat.html"
     } , {
@@ -94,7 +94,7 @@
       "name_category": "JuzAmma",
       "title": "Abasa - Juz Amma",
       "type_file": "HTML",
-      "image": "file:///android_asset/image/button 1.jpg",
+      "image": "file:///android_asset/category/button 1.jpg",
       "description": "Contoh",
       "link": "file:///android_asset/category/3.Abasa.html"
     } ,
@@ -103,7 +103,7 @@
       "name_category": "JuzAmma",
       "title": "At-Takwir - Juz Amma",
       "type_file": "HTML",
-      "image": "file:///android_asset/image/button 1.jpg",
+      "image": "file:///android_asset/category/button 1.jpg",
       "description": "Contoh",
       "link": "file:///android_asset/category/4.attakwir.html"
     } , {
@@ -111,7 +111,7 @@
       "name_category": "JuzAmma",
       "title": "Al-Infitar - Juz Amma",
       "type_file": "HTML",
-      "image": "file:///android_asset/image/button 1.jpg",
+      "image": "file:///android_asset/category/button 1.jpg",
       "description": "Contoh",
       "link": "file:///android_asset/category/5.alinfitar.html"
     } ,
@@ -120,7 +120,7 @@
       "name_category": "JuzAmma",
       "title": "An-Naba - Juz Amma",
       "type_file": "HTML",
-      "image": "file:///android_asset/image/button 1.jpg",
+      "image": "file:///android_asset/category/button 1.jpg",
       "description": "Contoh",
       "link": "file:///android_asset/category/1.AnNaba.html"
     } , {
@@ -128,7 +128,7 @@
       "name_category": "JuzAmma",
       "title": "An-Naba - Juz Amma",
       "type_file": "HTML",
-      "image": "file:///android_asset/image/button 1.jpg",
+      "image": "file:///android_asset/category/button 1.jpg",
       "description": "Contoh",
       "link": "file:///android_asset/category/1.AnNaba.html"
     }  
