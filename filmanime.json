@@ -18,11 +18,11 @@
   ],
   "menus": [
     {
-      "name": "Anime",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/solodroid.png",
-      "url": "https://demo3.deqilathemes.com/",
-      "url_dark": "https://demo3.deqilathemes.com/",
+      "name": "Nonton Gratis",
+      "type": "assets",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy.png",
+      "url": "https://videome.me/",
+      "url_dark": "https://videome.me/",
       "toolbar": true
     },
     {
@@ -31,14 +31,6 @@
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy.png",
       "url": "https://bawarezekiabadi.com/tvindonesia/tv.html",
       "url_dark": "https://bawarezekiabadi.com/tvindonesia/tv.html",
-      "toolbar": true
-    },
-    {
-      "name": "Nonton Gratis",
-      "type": "assets",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy.png",
-      "url": "https://videome.me/",
-      "url_dark": "https://videome.me/",
       "toolbar": true
     },
     {
