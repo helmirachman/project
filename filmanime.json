@@ -32,14 +32,6 @@
       "url": "https://bawarezekiabadi.com/tvindonesia/tv.html",
       "url_dark": "https://bawarezekiabadi.com/tvindonesia/tv.html",
       "toolbar": true
-    },
-    {
-      "name": "Nonton Gratis",
-      "type": "assets",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy.png",
-      "url": "https://bawarezekiabadi.com/tvindonesia/tv.html",
-      "url_dark": "https://bawarezekiabadi.com/tvindonesia/tv.html",
-      "toolbar": true
     }
   ],
   "ads": [
