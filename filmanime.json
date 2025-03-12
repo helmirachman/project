@@ -18,14 +18,14 @@
   ],
   "menus": [
     {
-      "name": "Nonton 1",
+      "name": "Novel Hub",
       "type": "assets",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy.png",
       "url": "https://oggit.me/",
       "url_dark": "https://oggit.me/",
       "toolbar": true
     },{
-      "name": "Nonton 1",
+      "name": "Novelhub",
       "type": "assets",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy.png",
       "url": "https://oggit.me/",
