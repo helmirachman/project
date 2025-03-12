@@ -21,24 +21,15 @@
       "name": "Nonton 1",
       "type": "assets",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy.png",
-      "url": "http://demo4.deqilathemes.com/",
-      "url_dark": "http://demo4.deqilathemes.com/",
+      "url": "https://oggit.me/",
+      "url_dark": "https://oggit.me/",
       "toolbar": true
-    },
-    {
-      "name": "Nonton 2",
+    },{
+      "name": "Nonton 1",
       "type": "assets",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy.png",
-      "url": "https://demo3.deqilathemes.com/",
-      "url_dark": "hhttps://demo3.deqilathemes.com/",
-      "toolbar": true
-    },
-    {
-      "name": "Nonton 3",
-      "type": "assets",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy.png",
-      "url": "https://d3.deqilathemes.com/",
-      "url_dark": "https://d3.deqilathemes.com/",
+      "url": "https://oggit.me/",
+      "url_dark": "https://oggit.me/",
       "toolbar": true
     }
   ],
