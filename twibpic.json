@@ -1,0 +1,51 @@
+{
+    "ADS": [
+        {
+            "status_app": "0",
+            "link_redirect": "https://",
+            "status_ads_test": true,
+            "banner_gads": "x",
+            "banner_admob": "",
+            "interstitial_admob": "",
+            "reward_admob": "",
+            "banner_meta": "",
+            "interstitial_meta": "",
+            "reward_meta": "",
+            "banner_unity": "topBanner",
+            "interstitial_unity": "video",
+            "reward_unity": "rewardedVideo",
+            "game_id_unity": "1234567",
+            "interval": 3,
+            "random_frame": "0",
+            "url_event": "https://aliendro.id/twibbon/2025/idul%20fitri/1.webp",
+            "title_frame_event": "Hari Raya Idul Fitri",
+            "premium_frame": "0"
+        }
+    ],
+    "FRAME": [
+        {
+            "title": "Hari Raya Idul Fitri",
+            "image_link": "https://aliendro.id/twibbon/2025/idul%20fitri/1.webp"
+        },
+        {
+            "title": "Hari Raya Idul Fitri",
+            "image_link": "https://aliendro.id/twibbon/2025/idul%20fitri/2.webp"
+        },
+        {
+            "title": "Hari Raya Idul Fitri",
+            "image_link": "https://aliendro.id/twibbon/2025/idul%20fitri/3.webp"
+        },
+        {
+            "title": "Hari Raya Idul Fitri",
+            "image_link": "https://aliendro.id/twibbon/2025/idul%20fitri/4.webp"
+        },
+        {
+            "title": "Hari Raya Idul Fitri",
+            "image_link": "https://aliendro.id/twibbon/2025/idul%20fitri/5.webp"
+        },
+        {
+            "title": "Hari Raya Idul Fitri",
+            "image_link": "https://aliendro.id/twibbon/2025/idul%20fitri/6.webp"
+        }
+    ]
+}
