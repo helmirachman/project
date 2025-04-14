@@ -24,33 +24,68 @@
     ],
     "FRAME": [
         {
-            "title": "Hari Raya Idul Fitri",
-            "image_link": "https://aliendro.id/twibbon/2025/idul%20fitri/1.webp"
+            "title": "Hari Pancasila",
+            "image_link": "https://raw.githubusercontent.com/helmirachman/twibonfoto/refs/heads/main/Hari%20Pancasila.jpg"
+        },
+        {
+            "title": "Hari Bayangkara",
+            "image_link": "https://github.com/helmirachman/twibonfoto/blob/main/bayangkara.jpg?raw=true"
+        },
+        {
+            "title": "Hari Anak",
+            "image_link": "https://github.com/helmirachman/twibonfoto/blob/main/harianak.jpg?raw=true"
+        },
+        {
+            "title": "Hari Buruh",
+            "image_link": "https://github.com/helmirachman/twibonfoto/blob/main/hariburuh.png?raw=true"
+        },
+        {
+            "title": "Hari Ibu",
+            "image_link": "https://github.com/helmirachman/twibonfoto/blob/main/hariibu.png?raw=true"
+        },
+        {
+            "title": "Hari Santri",
+            "image_link": "https://github.com/helmirachman/twibonfoto/blob/main/harisantri.jpg?raw=true"
+        },
+        {
+            "title": "Hari Valentine",
+            "image_link": "https://github.com/helmirachman/twibonfoto/blob/main/harivalentine.jpg?raw=true"
+        },
+        {
+            "title": "HUT DKI Jakarta",
+            "image_link": "https://github.com/helmirachman/twibonfoto/blob/main/hutjakarta.jpg?raw=true"
+        },
+        {
+            "title": "HUT RI",
+            "image_link": "https://github.com/helmirachman/twibonfoto/blob/main/hutri.jpg?raw=true"
+        },
+        {
+            "title": "Hari Raya Idul Adha",
+            "image_link": "https://github.com/helmirachman/twibonfoto/blob/main/iduladha.jpg?raw=true"
         },
         {
             "title": "Hari Raya Idul Fitri",
-            "image_link": "https://aliendro.id/twibbon/2025/idul%20fitri/2.webp"
+            "image_link": "https://github.com/helmirachman/twibonfoto/blob/main/idulfitri.webp?raw=true"
         },
         {
-            "title": "Hari Raya Idul Fitri",
-            "image_link": "https://aliendro.id/twibbon/2025/idul%20fitri/3.webp"
+            "title": "Hari Kartini",
+            "image_link": "https://github.com/helmirachman/twibonfoto/blob/main/kartini.jpg?raw=true"
         },
         {
-            "title": "Hari Raya Idul Fitri",
-            "image_link": "https://aliendro.id/twibbon/2025/idul%20fitri/4.webp"
+            "title": "Hari Kebangkitan Nasional",
+            "image_link": "https://github.com/helmirachman/twibonfoto/blob/main/kebangkitan_nasional.jpg?raw=true"
         },
         {
-            "title": "Hari Raya Idul Fitri",
-            "image_link": "https://aliendro.id/twibbon/2025/idul%20fitri/5.webp"
+            "title": "Hari Natal",
+            "image_link": "https://github.com/helmirachman/twibonfoto/blob/main/natal.png?raw=true"
         },
         {
-            "title": "Hari Raya Idul Fitri",
-            "image_link": "https://aliendro.id/twibbon/2025/idul%20fitri/6.webp"
+            "title": "Hari Pendidikan Nasional",
+            "image_link": "https://github.com/helmirachman/twibonfoto/blob/main/pendidikannasional.png?raw=true"
         },
         {
-            "title": "Hari Raya Idul Fitri",
-            "image_link": "https://raw.githubusercontent.com/helmirachman/twibonfoto/3291d23ada6ca9f48d20fe018e2f74b6807be8a2/kebangkitan_nasional.jpg
-"
+            "title": "Hari TNI AU",
+            "image_link": "https://github.com/helmirachman/twibonfoto/blob/main/tniau.jpg?raw=true"
         }
             ]
 }
