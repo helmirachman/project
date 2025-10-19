@@ -16,9 +16,9 @@
             "reward_unity": "rewardedVideo",
             "game_id_unity": "1234567",
             "interval": 3,
-            "random_frame": "0",
-            "url_event": "https://aliendro.id/twibbon/2025/idul%20fitri/1.webp",
-            "title_frame_event": "Hari Raya Idul Fitri",
+            "random_frame": "1",
+            "url_event": "https://github.com/helmirachman/twibpic/blob/main/haripahlawan5.png?raw=true",
+            "title_frame_event": "Hari Pahlawan",
             "premium_frame": "0"
         }
     ],
