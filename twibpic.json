@@ -23,7 +23,6 @@
         }
     ],
     "FRAME": [
-       [
    {
     "title": "Hari Kemerdekaan Indonesia",
     "image_link": "https://github.com/helmirachman/twibpic/blob/main/agustus1.png?raw=true"
@@ -88,7 +87,6 @@
     "title": "Hari Kemerdekaan Indonesia",
     "image_link": "https://github.com/helmirachman/twibpic/blob/main/agustus16.png?raw=true"
 },
-
 {
     "title": "Hari Kartini",
     "image_link": "https://github.com/helmirachman/twibpic/blob/main/harikartini1.png?raw=true"
@@ -145,7 +143,6 @@
     "title": "Hari Kartini",
     "image_link": "https://github.com/helmirachman/twibpic/blob/main/harikartini14.png?raw=true"
 },
-
 {
     "title": "Hari Guru",
     "image_link": "https://github.com/helmirachman/twibpic/blob/main/hariguru1.png?raw=true"
@@ -198,7 +195,6 @@
     "title": "Hari Guru",
     "image_link": "https://github.com/helmirachman/twibpic/blob/main/hariguru13.png?raw=true"
 },
-
 {
     "title": "Hari Ibu",
     "image_link": "https://github.com/helmirachman/twibpic/blob/main/haribu1.png?raw=true"
@@ -235,7 +231,6 @@
     "title": "Hari Ibu",
     "image_link": "https://github.com/helmirachman/twibpic/blob/main/haribu9.png?raw=true"
 },
-
 {
     "title": "Hari Pahlawan",
     "image_link": "https://github.com/helmirachman/twibpic/blob/main/haripahlawan1.png?raw=true"
@@ -284,8 +279,5 @@
     "title": "Hari Pahlawan",
     "image_link": "https://github.com/helmirachman/twibpic/blob/main/haripahlawan12.png?raw=true"
 }
-
-]
-
             ]
 }
