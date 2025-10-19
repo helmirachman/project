@@ -3,7 +3,7 @@
         {
             "status_app": "0",
             "link_redirect": "https://",
-            "status_ads_test": true,
+            "status_ads_test": false,
             "banner_gads": "x",
             "banner_admob": "ca-app-pub-1972406044812775/9796893766",
             "interstitial_admob": "ca-app-pub-1972406044812775/8155868408",
